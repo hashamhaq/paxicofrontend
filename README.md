@@ -1,0 +1,2 @@
+# paxicofrontend
+Paxico Project Frontend
